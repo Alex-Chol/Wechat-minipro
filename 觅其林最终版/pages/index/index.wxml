@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="all">
+  <view class="index">
+  <text class="text">觅 / 其 / 林</text>
+  <image src="http://47.100.78.99/images/icon.png" class="icon"></image>
+  <button bindtap="golist" class="button1">开始点餐
+  </button>
+  </view>
+</view>
+
+
+
